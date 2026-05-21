@@ -8,4 +8,3 @@ Your Ulwazi Smart Study Hub README is ready! 🎉 Here's what's packed inside:
 - **Getting Started** steps for new users
 - **Roadmap** including mobile app and isiZulu/isiXhosa language support
 
-Drop it as `README.md` in your GitHub repo and it'll render as a clean, professional project page. 📚
